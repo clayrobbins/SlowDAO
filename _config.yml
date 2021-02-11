@@ -1,9 +1,9 @@
 timezone: America/Los_Angeles
-url: https://www.fin.com
-site_name: www.fin.com
+url: https://influence.slow.com
+site_name: influence.slow.com
 permalink: /posts/:title/
 google_analytics_account: "UA-70432631-4"
-twitter_username: finexploration
+twitter_username: lessin
 plugins_dir: ./_plugins
 plugins:
   - jekyll-redirect-from
