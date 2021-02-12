@@ -18,16 +18,16 @@ highlight: "this is some ish"
   
 <hr>
 
-<h5><a id="sv"></a>ABOUT SLOW VENTURES</h5>
+<h7><a id="sv"></a>ABOUT SLOW VENTURES</h7>
 
 
-<h5><a id="if"></a>ABOUT THE INNFLUENNCER FUND</h5>
+<h7><a id="if"></a>ABOUT THE INNFLUENNCER FUND</h7>
 
 
-<h5><a id="apply"></a>HOW TO APPLY</h5>
+<h7><a id="apply"></a>HOW TO APPLY</h7>
 
 
-<h5><a id="faq"></a>FAQ</h5>
+<h7><a id="faq"></a>FAQ</h7>
 
 
 
