@@ -4,7 +4,7 @@ title: "Slow Ventures : Influenncer Fund"
 highlight: "this is some ish"
 ---
 
-<h4>[The Slow Ventures Influencer Fund](http://www.twitter.com/slow)</h4> 
+<h4>The Slow Ventures Influencer Fund</h4> 
 Supporting creators with professional capital to grow their communities and fulfill their potential.  
 
 <hr>
