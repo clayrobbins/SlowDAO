@@ -5,7 +5,7 @@ highlight: "this is some ish"
 ---
 
 <h4>THE SLOW VENTURES INFLUENCER FUND</h4> 
-Supporting creators with professional capital to grow their communities and fulfill their potential.  
+<p style="margin-top: -8px;">Supporting creators with professional capital to grow their communities and fulfill their potential.  
 
 <hr>
 
