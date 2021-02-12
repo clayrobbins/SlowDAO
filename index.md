@@ -9,10 +9,12 @@ Supporting creators with professional capital to grow their communities and fulf
 
 <hr>
 
-<a href="">About Slow Ventures</a>
-<a href="">About The Influecner Fund</a>
-<a href="">How To Apply</a>
-
+<ul>
+<li><a href="">About Slow Ventures</a></li>
+<li><a href="">About The Influecner Fund</a></li>
+  <li><a href="">How To Apply</a></li>
+<ul>
+  
 <hr>
 
 
