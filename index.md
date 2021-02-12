@@ -12,6 +12,7 @@ highlight: "this is some ish"
 <ul>
   <li><a href="#sv">> About Slow Ventures</a></li>
   <li><a href="#if">> About The Influecner Fund</a></li>
+  <li><a href="#how">> How It Works</a></li>  
   <li><a href="#apply">> How To Apply</a></li>
   <li><a href="#faq">> FAQ</a></li>  
 </ul>
@@ -22,6 +23,9 @@ highlight: "this is some ish"
 
 
 <h6><a id="if"></a>ABOUT THE INNFLUENNCER FUND</h6>
+
+
+<h6><a id="if"></a>HOW IT WORKS</h6>
 
 
 <h6><a id="apply"></a>HOW TO APPLY</h6>
