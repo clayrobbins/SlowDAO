@@ -4,7 +4,7 @@ title: "Slow Ventures : Influenncer Fund"
 highlight: "this is some ish"
 ---
 
-<h4>THE SLOW VENTURES / INFLUENCER FUND /</h4> 
+<h4 style="font-size: 22px">THE SLOW VENTURES / INFLUENCER FUND /</h4> 
 <p style="margin-top: -8px;">Supporting modern creators and influencers with professional seed capital to grow their communities and fulfill their potential.  
 
 <hr>
