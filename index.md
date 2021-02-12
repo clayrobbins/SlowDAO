@@ -14,7 +14,7 @@ Supporting creators with professional capital to grow their communities and fulf
   <li><a href="">About The Influecner Fund</a></li>
   <li><a href="">How To Apply</a></li>
   <li><a href="">FAQ</a></li>  
-<ul>
+</ul>
   
 <hr>
 
