@@ -1,10 +1,25 @@
 ---
 layout: logo
-title: "Slow Ventures - About"
+title: "Slow Ventures : Influenncer Fund"
 highlight: "this is some ish"
 ---
 
-<b>[Slow Ventures](http://www.twitter.com/slow)</b> is an early-stage focused Venture Capital firm based out of San Fransisco and Boston.  We are generalists and invest in early stage teams and ideas ranging from Social Networking to Consumer Brands to SaaS, and Crypto.  We believe - and have seen proven time and again - that great things frequently take time to inflect, and believe that our number-one job is to back great founders on their journey.  
+<h4>[The Slow Ventures Influencer Fund](http://www.twitter.com/slow)</h4> 
+Supporting creators with professional capital to grow their communities and fulfill their potential.  
+
+<hr>
+
+<a href="">About Slow Ventures</a>
+<a href="">About The Influecner Fund</a>
+<a href="">How To Apply</a>
+
+<hr>
+
+
+
+
+
+is an early-stage focused Venture Capital firm based out of San Fransisco and Boston.  We are generalists and invest in early stage teams and ideas ranging from Social Networking to Consumer Brands to SaaS, and Crypto.  We believe - and have seen proven time and again - that great things frequently take time to inflect, and believe that our number-one job is to back great founders on their journey.  
 
 In the last decade we have invested in the earliest rounds of over 300 companies, including…
 
