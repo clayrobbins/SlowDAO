@@ -5,7 +5,7 @@
   <div class="row" style="margin-top:100px;">
     <!-- 2 -->
       <div class="col-sm-3" style="font-size:12px">
-        <img src="http://main.slow.co/slow-white.png" width="200" height="166">
+        <img src="http://main.slow.co/slow-white.png" max-width="100%">
       </div>
 
   <div class="col-sm-8 blogpost" style="font-family: 'Roboto', sans-serif;margin-top:65px">
