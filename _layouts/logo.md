@@ -8,7 +8,7 @@
         <img src="http://main.slow.co/slow-white.png" width="200" height="166">
       </div>
 
-  <div class="col-sm-8 blogpost" style="font-family: 'Roboto', sans-serif;">
+  <div class="col-sm-8 blogpost" style="font-family: 'Roboto', sans-serif;margin-top:65px">
       <!-- 3 -->
         <article>
           {{ content }}
