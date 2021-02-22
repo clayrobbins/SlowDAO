@@ -31,6 +31,8 @@ Probably most importantly - As long-time seed investors, the reality is that we 
 
 Within Slow, the Influencer Fund is managed by Sam Lessin.  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
+<hr>
+
 <h6><a id="if"></a>ABOUT THE INNFLUENNCER FUND</h6>
 
 The Slow Ventures Influencer Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the influencer / creator’s future earnings over their careers.    There are a few important things to understand about how our fund works: 
@@ -43,6 +45,7 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 
 <b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Influencer’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very well. </b> Our fund protects those we invest in by only participating in profits over a certain amount per year.  
 
+<hr>
 
 <h6><a id="if"></a>HOW IT WORKS</h6>
 
@@ -55,6 +58,8 @@ Step 2: We help the creator establish a business that represents their creative 
 Step 3: We invest in the company for a small minority share.  If the creator wants we can ‘lead’ the investment and include other value-added investors (just like we do for seed-stage companies)
 
 Step 4: The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.  We get paid a percentage of annual revenue if the creator is succeeding and making significant money from their career.  
+
+<hr>
 
 <h6><a id="apply"></a>HOW TO LEARN MORE</h6>
 
