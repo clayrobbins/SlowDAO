@@ -4,7 +4,7 @@ title: "Slow Ventures : Influencer Fund"
 highlight: "Professional Capital for Influencers & Creators"
 ---
 
-<h4 style="font-size: 22px">THE SLOW VENTURES / INFLUENCER FUND /</h4> 
+<h4 style="font-size: 22px">THE SLOW VENTURES INFLUENCER FUND</h4> 
 <p style="margin-top: -8px;">The Slow Ventures Influencer Fund is setup to directly support creators and influencers with professional & aligned capital to grow their communities and fulfill their full potential.  
 
 We firmly believe that the most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued…. [Learn More](http://influence.slow.co/thesis))  
