@@ -4,6 +4,8 @@ title: "Slow Ventures : Influenncer Fund"
 highlight: "The Big Picture Thesis on Influencers"
 ---
 
+## Equity Financing for Influencers
+by [Sam Lessin](https://www.twitter.com/lessin), published in [The Information](https://www.theinformation.com/articles/equity-financing-for-influencers), Jan 2021
 
 The most valuable brands of the future are going to be people rather than companies. The shift in that direction is starting to happen right under our noses.
 
