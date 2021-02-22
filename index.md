@@ -51,7 +51,7 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 
 <h6><a id="if"></a>HOW IT WORKS</h6>
 
-<b>Step 1:</b> We work with a creator / influencer to set a fair price for an investment in their creative career.  This is a collaborative process and works pretty much exactly the same way as when we invest in seed stage companies.
+<b>Step 1:</b> We work with a creator / influencer to set a fair valuation on their creative career.  This is a collaborative process and works pretty much exactly the same way as when we invest in seed stage companies.
 
 <b>Step 2:</b> We help the creator establish a business that represents their creative career & assign that company the correct income streams, IP, and equity (much like how people setup trusts)
 
