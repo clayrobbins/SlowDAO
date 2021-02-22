@@ -5,7 +5,9 @@ highlight: "this is some ish"
 ---
 
 <h4 style="font-size: 22px">THE SLOW VENTURES / INFLUENCER FUND /</h4> 
-<p style="margin-top: -8px;">Supporting modern creators and influencers with professional seed capital to grow their communities and fulfill their potential.  
+<p style="margin-top: -8px;">The Slow Ventures Influencer Fund is setup to directly support creators and influencers with professional & aligned capital to grow their communities and fulfill their full potential.  
+
+We firmly believe that the most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued…. [Learn More](http://influence.slow.co/thesis))  
 
 <hr>
 
@@ -14,73 +16,46 @@ highlight: "this is some ish"
   <li><a href="#if">> About The Influecner Fund</a></li>
   <li><a href="#how">> How It Works</a></li>  
   <li><a href="#apply">> How To Apply</a></li>
-  <li><a href="#faq">> FAQ</a></li>  
 </ul>
   
 <hr>
 
 <h6><a id="sv"></a>ABOUT SLOW VENTURES</h6>
 
+[Slow Ventures](https://slow.co) is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including Venmo, Robinhood, Postmates, Allbirds, Casper, Next-door, Slack, Airtable, Ro, and many more.  
+
+We usually invest when companies are no more than a founder and idea & our core mission is to be deeply aligned with our founders through the ups & downs (and frequently arduous process) of building great companies.
+
+Probably most importantly - As long-time seed investors, the reality is that we are very used to backing people more than anything else… which is why the Influencer Fund - which directly backs people vs. companies - is a natural evolution for us. 
+
+Within Slow, the Influencer Fund is managed by Sam Lessin.  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
 <h6><a id="if"></a>ABOUT THE INNFLUENNCER FUND</h6>
 
+The Slow Ventures Influencer Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.
+
+We invest anywhere from $100K to $5M in each person in return for anywhere from 1-5% of the influencer / creator’s future earnings over their careers.  
+
+There are a few important things to understand about how our fund works: 
+
+<b> No commitment investment </b> — We do not tell people how to spend the money we invest - nor do we force creators and influencers to take any specific action.  This is how we have always done venture investing - trusting great people to know their business and how to invest our money, the same goes for these creators.
+
+<b> Teamwork Focus </b> — We always welcome collaboration with other investors when making our investment.  In venture investing, we have always found the collaborative approach best. ‘It takes a village’…. In our ideal model, we invest in a creator or influencer alongside other strategic investors (for instance, if you are a fitness influencer, we help bring on other big-name successful fitness influencers to invest in you and help you grow).  
+
+<b> Long-Term Focus </b> Because of how the influencer fund works, our goal is that our long-term interests are 100% aligned with your long-term interests.  Most models for financing talent are short-term and therefore pressure the talent to make as much money as possible quickly.  Some other models are focused on giving talent ‘up front’ money in return for forcing them to produce certain work or results for their ‘investors’.  That isn’t how our fund works, because we get paid when you get paid.
+
+<b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Influencer’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very well. </b> Our fund protects those we invest in by only participating in profits over a certain amount per year.  
 
 <h6><a id="if"></a>HOW IT WORKS</h6>
 
 
-<h6><a id="apply"></a>HOW TO APPLY</h6>
-
-
-<h6><a id="faq"></a>FAQ</h6>
 
 
 
 
+<h6><a id="apply"></a>HOW TO LEARN MORE</h6>
 
 
-is an early-stage focused Venture Capital firm based out of San Fransisco and Boston.  We are generalists and invest in early stage teams and ideas ranging from Social Networking to Consumer Brands to SaaS, and Crypto.  We believe - and have seen proven time and again - that great things frequently take time to inflect, and believe that our number-one job is to back great founders on their journey.  
 
-In the last decade we have invested in the earliest rounds of over 300 companies, including…
-
-<b>[Airtable](slow.co)</b> Modern database software.<br>
-<b>[Ro](slow.co)</b> Direct-to-consumer telehealth.<br>
-<b>[Livongo Health](livongo.com)</b> Personalized Tools and Support for Total Chronic Condition Management<br>
-<b>[Robinhood](robinhood.com)</b> Mobile stock brokerage<br>
-<b>[Running Tide](slow.co)</b> Automated ocean harvesting technologies.<br>
-<b>[Tonkean](slow.co)</b> Next generation management platform.<br>
-<b>[Venmo](slow.co)</b> Social payment app<br>
-<b>[Postmates](postmates.com)</b> Same day urban delivery platform<br>
-<b>[Clubhouse](slow.co)</b> Live audio chatrooms.<br>
-<b>[Birchbox](birchbox.com)</b> Subscription commerce for beauty products<br>
-<b>[Allbirds](slow.co)</b> Environmentally friendly footwear.<br>
-<b>[Solana](https://www.solana.com/)</b> Scalable Blockchain Infrastructure<br>
-<b>[Casper](casper.com)</b> Digitally introduced brand of mattresses.<br>
-<b>[Birdies](slow.co)</b> Fashionable women’s slippers.<br>
-<b>[BarkBox](barkbox.com)</b> Subscription commerce for dogs<br>
-<b>[Behance](slow.co)</b> Design community<br>
-<b>[Astra](slow.co)</b> Lower cost rocket launches.<br>
-<b>[Fold Wallet](https://foldapp.com/)</b> Bitcoin wallet.<br>
-<b>[Algorand](https://www.algorand.com/)</b> The First Pure Proof of Stake Blockchain Platform<br>
-<b>[Otter](slow.co)</b> AI-powered voice translation app.<br>
-<b>[Opendoor](opendoor.com)</b> The easiest way to sell your home<br>
-<b>[OpenPhone](slow.co)</b> Mobile app for a business phone number<br>
-<b>[Nextdoor](nextdoor.com)</b> Private social network for your neighborhood<br>
-<b>[Hipcamp](hipcamp.com)</b> Discover and book the best campsites in California<br>
-<b>[Plume](getplume.co)</b> Gender-Affirming Hormone Therapy From Anywhere<br>
-<b>[Frontapp](slow.co)</b> Customer managemnt platform<br>
-<b>[Even](whatiseven.com)</b> Interest-free credit to keep your paycheck steady.<br>
-<b>[Domino Data Lab](slow.co)</b> Enterprise data science platform.<br>
-<b>[Common](slow.co)</b> Technology-enabled residential operator.<br>
-<b>[And Many More](http://main.slow.co/portfolio/)</b>....<br>
-
-
-----
-
-<p>The Investment Team</p>
-
-<b>[Kevin Colleran](https://twitter.com/KevinColleran)</b> Managing Director. Previously early Facebook<br>
-<b>[Sam Lessin](https://twitter.com/lessin)</b> Partner. Fmr VP Product FB. Co-founder Fin Analytics & Drop.io. Intern The Information.<br>
-<b>[Will Quist](https://twitter.com/wquist)</b> Excitable Partner. Former MD at Industry Ventures.<br>
-<b>[Jill Carlson](jillruthcarlson)</b> Principal.  Former Strategy and Biz Dev at Chain & GS alum.<br>
 
 
