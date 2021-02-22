@@ -1,7 +1,7 @@
 ---
 layout: logo
-title: "Slow Ventures : Influenncer Fund"
-highlight: "this is some ish"
+title: "Slow Ventures : Influencer Fund"
+highlight: "Professional Capital for Influencers & Creators"
 ---
 
 <h4 style="font-size: 22px">THE SLOW VENTURES / INFLUENCER FUND /</h4> 
