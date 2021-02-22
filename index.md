@@ -8,7 +8,7 @@ highlight: "Professional Capital for Influencers & Creators"
 
 Supporting modern creators and influencers with professional seed capital to grow their communities and fulfill their potential.
 
-*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued. [more](http://influence.slow.co/thesis)*
+*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued. [more on our thesis](http://influence.slow.co/thesis)*
 
 <hr>
 
@@ -23,7 +23,7 @@ Supporting modern creators and influencers with professional seed capital to gro
 
 <h6><a id="sv"></a>ABOUT SLOW VENTURES</h6>
 
-Slow Ventures is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including Venmo, Robinhood, Postmates, Allbirds, Casper, Next-door, Slack, Airtable, Ro, and many more.  
+[Slow Ventures](https://www.slow.co) is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including <b>Venmo, Robinhood, Postmates, Allbirds, Casper, Slack, Airtable, Ro, and [many more](https://http://main.slow.co/about/).  
 
 We usually invest when companies are no more than a founder and idea & our core mission is to be deeply aligned with our founders through the ups & downs (and frequently arduous process) of building great companies.
 
