@@ -29,7 +29,7 @@ We usually invest when companies are no more than a founder and idea & our core 
 
 Probably most importantly - As long-time seed investors, the reality is that we are very used to backing people more than anything else… which is why the Influencer Fund - which directly backs people vs. companies - is a natural evolution for us. 
 
-Within Slow, the Influencer Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
+Within Slow, the Influencer Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (Stride, Vemo, Pando Pooling), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
 <hr>
 
