@@ -6,9 +6,7 @@ highlight: "Professional Capital for Influencers & Creators"
 
 <h4 style="font-size: 22px">THE SLOW VENTURES INFLUENCER FUND</h4> 
 
-Supporting modern creators and influencers with professional seed capital to grow their communities and fulfill their potential.
-
-*We firmly believe that the most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued…. [Learn More](http://influence.slow.co/thesis) )*
+*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued…. [Learn More](http://influence.slow.co/thesis)*
 
 <hr>
 
