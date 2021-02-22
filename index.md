@@ -33,7 +33,9 @@ Within Slow, the Influencer Fund is managed by [Sam Lessin](https://www.twitter.
 
 <hr>
 
-<h6><a id="if"></a>ABOUT THE INNFLUENNCER FUND</h6>
+
+
+<h6><a id="if"></a>ABOUT THE INFLUENNCER FUND</h6>
 
 The Slow Ventures Influencer Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the influencer / creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
 
