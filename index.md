@@ -6,7 +6,9 @@ highlight: "Professional Capital for Influencers & Creators"
 
 <h4 style="font-size: 22px">THE SLOW VENTURES INFLUENCER FUND</h4> 
 
-*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued…. [Learn More](http://influence.slow.co/thesis)*
+Supporting modern creators and influencers with professional seed capital to grow their communities and fulfill their potential.
+
+*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued [more](http://influence.slow.co/thesis)*
 
 <hr>
 
@@ -21,7 +23,7 @@ highlight: "Professional Capital for Influencers & Creators"
 
 <h6><a id="sv"></a>ABOUT SLOW VENTURES</h6>
 
-[Slow Ventures](https://slow.co) is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including Venmo, Robinhood, Postmates, Allbirds, Casper, Next-door, Slack, Airtable, Ro, and many more.  
+Slow Ventures is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including Venmo, Robinhood, Postmates, Allbirds, Casper, Next-door, Slack, Airtable, Ro, and many more.  
 
 We usually invest when companies are no more than a founder and idea & our core mission is to be deeply aligned with our founders through the ups & downs (and frequently arduous process) of building great companies.
 
@@ -31,11 +33,7 @@ Within Slow, the Influencer Fund is managed by Sam Lessin.  Sam was VP of Produc
 
 <h6><a id="if"></a>ABOUT THE INNFLUENNCER FUND</h6>
 
-The Slow Ventures Influencer Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.
-
-We invest anywhere from $100K to $5M in each person in return for anywhere from 1-5% of the influencer / creator’s future earnings over their careers.  
-
-There are a few important things to understand about how our fund works: 
+The Slow Ventures Influencer Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the influencer / creator’s future earnings over their careers.    There are a few important things to understand about how our fund works: 
 
 <b> No commitment investment </b> — We do not tell people how to spend the money we invest - nor do we force creators and influencers to take any specific action.  This is how we have always done venture investing - trusting great people to know their business and how to invest our money, the same goes for these creators.
 
@@ -45,14 +43,24 @@ There are a few important things to understand about how our fund works:
 
 <b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Influencer’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very well. </b> Our fund protects those we invest in by only participating in profits over a certain amount per year.  
 
+
 <h6><a id="if"></a>HOW IT WORKS</h6>
 
+At a high level, the approach looks like this:
 
-
-
+	1. We work with a creator / influencer to set a fair price for an investment in their creative career.
+	2. We help the creator establish a business that represents their creative career & assign that company the correct income streams, IP, and equity (much like how people setup trusts)
+	3. We invest in the company for a small minority share.  If the creator wants we can ‘lead’ the investment and include other value-added investors (just like we do for seed-stage companies)
+	4. The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.
 
 
 <h6><a id="apply"></a>HOW TO LEARN MORE</h6>
+
+To learn more and apply, reach out to sam@slow.co 
+
+
+
+
 
 
 
