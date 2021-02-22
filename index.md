@@ -55,7 +55,7 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 
 <b>Step 3:</b> We invest in the company for a small minority share.  If the creator wants we can ‘lead’ the investment and include other value-added investors (just like we do for seed-stage companies)
 
-<b>Step 4:</b> The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.  We get paid a percentage of annual revenue if the creator is succeeding and making significant money from their career.  
+<b>Step 4:</b> The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.  As investors we get paid a percentage of annual creative revenue if the creator is succeeding and making significant money from their career.
 
 <hr>
 
