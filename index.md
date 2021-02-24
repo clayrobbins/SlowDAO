@@ -21,6 +21,9 @@ Supporting modern creators and influencers with professional seed capital to gro
   
 <hr>
 
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="http://influence.slow.co/img-about-slow.png" max-width="100%">
+
 <h6><a id="sv"></a>ABOUT SLOW VENTURES</h6>
 
 [Slow Ventures](https://www.slow.co) is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including <b>Venmo, Robinhood, Postmates, Allbirds, Casper, Slack, Airtable, Ro</b>, and [many more](https://http://main.slow.co/about/).  
