@@ -18,6 +18,8 @@ Supporting modern creators and influencers with professional seed capital to gro
   <li><a href="#how">How It Works</a></li>  
   <li><a href="#apply">How To Apply</a></li>
 </ul>
+
+<hr>
   
 
 <img id="sv" src="http://influence.slow.co/about.png" max-width="100%">
