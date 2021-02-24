@@ -62,7 +62,7 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 
 To learn more and apply, reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect for an initial discussion. We can go over the details of how our influencer investments work, what we are looking for, and more.
 
-
+<p style="margin-bottom: 1000px;"></p>
 
 
 
