@@ -22,7 +22,7 @@ Supporting modern creators and influencers with professional seed capital to gro
 <hr>
   
 
-<img id="sv" src="http://influence.slow.co/about.png" max-width="100%">
+<div id="sv"></div>
 
 [Slow Ventures](https://www.slow.co) is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including <b>Venmo, Robinhood, Postmates, Allbirds, Casper, Slack, Airtable, Ro</b>, and [many more](https://main.slow.co/about/).  
 
@@ -34,7 +34,7 @@ Within Slow, the Influencer Fund is managed by [Sam Lessin](https://www.twitter.
 
 
 
-<img id="if" src="http://influence.slow.co/fund.png" max-width="100%">
+<div id="if"></div>
 
 The Slow Ventures Influencer Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the influencer / creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
 
@@ -47,7 +47,7 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 <b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Influencer’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very well. </b> Our fund protects those we invest in by only participating in profits over a certain amount per year.  
 
 
-<img id="how" src="http://influence.slow.co/how.png" max-width="100%">
+<div id="how"></div>
 
 <b>Step 1:</b> We work with a creator / influencer to set a fair valuation on their creative career.  This is a collaborative process and works pretty much exactly the same way as when we invest in seed stage companies.
 
@@ -58,7 +58,7 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 <b>Step 4:</b> The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.  As investors we get paid a percentage of annual creative revenue if the creator is succeeding and making significant money from their career.
 
 
-<img id="apply" src="http://influence.slow.co/more.png" max-width="100%">
+<div id="apply"></div>
 
 To learn more and apply, reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect for an initial 15 minute discussion.
  
