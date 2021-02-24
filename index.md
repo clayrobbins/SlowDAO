@@ -14,7 +14,7 @@ Supporting modern creators and influencers with professional seed capital to gro
 
 <ul>
   <li><a href="#sv">About Slow Ventures</a></li>
-  <li><a href="#if">About The Influecner Fund</a></li>
+  <li><a href="#if">About The Influencer Fund</a></li>
   <li><a href="#how">How It Works</a></li>  
   <li><a href="#apply">How To Apply</a></li>
 </ul>
