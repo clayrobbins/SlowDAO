@@ -19,7 +19,6 @@ Supporting modern creators and influencers with professional seed capital to gro
   <li><a href="#apply">How To Apply</a></li>
 </ul>
   
-<hr>
 
 <img id="sv" src="http://influence.slow.co/about.png" max-width="100%">
 
@@ -31,7 +30,6 @@ Probably most importantly - As long-time seed investors, the reality is that we 
 
 Within Slow, the Influencer Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (Stride, Vemo, Pando Pooling), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
-<hr>
 
 
 <img id="if" src="http://influence.slow.co/fund.png" max-width="100%">
@@ -46,7 +44,6 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 
 <b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Influencer’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very well. </b> Our fund protects those we invest in by only participating in profits over a certain amount per year.  
 
-<hr>
 
 <img id="how" src="http://influence.slow.co/how.png" max-width="100%">
 
@@ -58,7 +55,6 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 
 <b>Step 4:</b> The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.  As investors we get paid a percentage of annual creative revenue if the creator is succeeding and making significant money from their career.
 
-<hr>
 
 <img id="apply" src="http://influence.slow.co/more.png" max-width="100%">
 
