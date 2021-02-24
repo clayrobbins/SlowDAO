@@ -21,7 +21,6 @@ Supporting modern creators and influencers with professional seed capital to gro
   
 <hr>
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
 <img src="http://influence.slow.co/img-about-slow.png" max-width="100%">
 
 <h6><a id="sv"></a>ABOUT SLOW VENTURES</h6>
