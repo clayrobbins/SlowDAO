@@ -58,6 +58,10 @@ div.side p{
   margin-top: -20px;
 }
 
+ul {
+  padding-inline-start: 0px;
+}
+
 ul li {
   display: flex;
 }
