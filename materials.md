@@ -13,14 +13,14 @@ Supporting professional creators with professional seed capital to grow their co
 <hr>
 
 <ul>
-  <li><a href="http://influence.slow.co/thesis/">The 'Big Picture' Creator Thesis</a></li>
-  <li><a href="#if">About The Influencer Fund</a></li>
-  <li><a href="#how">How It Works</a></li>  
-  <li><a href="http://influence.slow.co/Creator-Term-Sheet-v0.1.pdf">Template Term Sheet</a></li>
+  <li><a href="https://docsend.com/view/fv33ypuy2vr8pfc6">About The Influencer Fund</a></li>
+  <li><a href="https://docsend.com/view/z6xu4te7kbuj82ry">Short Intro for Creators</a></li>  
+  <li><a href="https://docsend.com/view/dcdhv2645ga8uysv">Template Term Sheet</a></li>
 </ul>
 
 <hr>
-  
+
+if you have questions or to learn more, feel free to reach out to <a href="mailto:sam@slow.co">sam@slow.co</a>  
 
 
 
