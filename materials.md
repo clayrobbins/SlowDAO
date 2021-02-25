@@ -4,7 +4,7 @@ title: "Slow Ventures : Creator Fund"
 highlight: "Professional Capital for Creators"
 ---
 
-<h4 style="font-size: 22px">THE SLOW VENTURES CREATOR FUND:  KEY MATERIALS</h4> 
+<h4 style="font-size: 22px">THE [SLOW](http://www.slow.co) VENTURES CREATOR FUND:  KEY MATERIALS</h4> 
 
 Supporting professional creators with professional seed capital to grow their communities and fulfill their potential.
 
