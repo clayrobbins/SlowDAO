@@ -8,7 +8,7 @@ highlight: "Professional Capital for Creators"
 
 Supporting modern creators with professional seed capital to grow their communities and fulfill their potential.
 
-*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued. [more on our thesis](http://influence.slow.co/thesis)*
+*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how creator brands are built, financed and valued. [more on our thesis](http://influence.slow.co/thesis)*
 
 <hr>
 
@@ -36,20 +36,20 @@ Within Slow, the Creator Fund is managed by [Sam Lessin](https://www.twitter.com
 
 <div id="if"></div>
 
-The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the influencer / creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
+The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
 
-<b> No requirement investment </b> — We do not tell people how to spend the money we invest - nor do we force creators and influencers to take any specific action.  This is how we have always done venture investing - trusting great people to know their business and how to invest our money, the same goes for how we support creators.
+<b> No requirement investment </b> — We do not tell people how to spend the money we invest - nor do we force creators to take any specific action.  This is how we have always done venture investing - trusting great people to know their business and how to invest our money, the same goes for how we support creators.
 
-<b> Teamwork Focus </b> — We always welcome collaboration with other investors when making our investment.  In venture investing, we have always found the collaborative approach best. ‘It takes a village’…. In our ideal model, we invest in a creator or influencer alongside other strategic investors (for instance, if you are a fitness influencer, we help bring on other big-name successful fitness influencers to invest in you and help you grow).  
+<b> Teamwork Focus </b> — We always welcome collaboration with other investors when making our investment.  In venture investing, we have always found the collaborative approach best. ‘It takes a village’…. In our ideal model, we invest in a creator alongside other strategic investors (for instance, if you are a fitness creator, we help bring on other big-name successful fitness creators to invest in you and help you grow).  
 
-<b> Long-Term Focus </b> Because of how the influencer fund works, our goal is that our long-term interests are 100% aligned with your long-term interests.  Most models for financing talent are short-term and therefore pressure the talent to make as much money as possible quickly.  Some other models are focused on giving talent ‘up front’ money in return for forcing them to produce certain work or results for their ‘investors’.  That isn’t how our fund works, because we get paid when you get paid.
+<b> Long-Term Focus </b> Because of how the creator fund works, our goal is that our long-term interests are 100% aligned with your long-term interests.  Most models for financing talent are short-term and therefore pressure the talent to make as much money as possible quickly.  Some other models are focused on giving talent ‘up front’ money in return for forcing them to produce certain work or results for their ‘investors’.  That isn’t how our fund works, because we get paid when you get paid.
 
 <b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Creator’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very very well. </b>, We always want to do well of course, but we are making early investments in people willing to take big risks on their careers - and we understand that sometimes it doesn't work out.  If that is the case and we lose our investment, that is OK.
 
 
 <div id="how"></div>
 
-<b>>Step 1:</b> We work with a creator / influencer to understand their capital needs & set a fair valuation on their creative career.  This is a collaborative process and works pretty much exactly the same way as when we invest in seed stage companies.
+<b>>Step 1:</b> We work with a creator to understand their capital needs & set a fair valuation on their creative career.  This is a collaborative process and works pretty much exactly the same way as when we invest in seed stage companies.
 
 <b>>Step 2:</b> We help the creator establish a business that represents their creative career & assign that company the correct income streams, IP, and equity (much like how people setup trusts)
 
@@ -60,7 +60,7 @@ The Slow Ventures Creator Fund is designed specifically to invest capital in ind
 
 <div id="apply"></div>
 
-To learn more and apply, reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect for an initial discussion. We can go over the details of how our influencer investments work, what we are looking for, and more.
+To learn more and apply, reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect for an initial discussion. We can go over the details of how our creator investments work, what we are looking for, and more.
 
 <p style="margin-bottom: 1000px;"></p>
 
