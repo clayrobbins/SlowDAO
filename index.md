@@ -1,12 +1,12 @@
 ---
 layout: logo
-title: "Slow Ventures : Influencer Fund"
-highlight: "Professional Capital for Influencers & Creators"
+title: "Slow Ventures : Creator Fund"
+highlight: "Professional Capital for Creators"
 ---
 
-<h4 style="font-size: 22px">THE SLOW VENTURES INFLUENCER FUND</h4> 
+<h4 style="font-size: 22px">THE SLOW VENTURES CREATOR FUND</h4> 
 
-Supporting modern creators and influencers with professional seed capital to grow their communities and fulfill their potential.
+Supporting modern creators with professional seed capital to grow their communities and fulfill their potential.
 
 *The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how influencer brands are built, financed and valued. [more on our thesis](http://influence.slow.co/thesis)*
 
@@ -14,7 +14,7 @@ Supporting modern creators and influencers with professional seed capital to gro
 
 <ul>
   <li><a href="#sv">About Slow Ventures</a></li>
-  <li><a href="#if">About The Influencer Fund</a></li>
+  <li><a href="#if">About The Creator Fund</a></li>
   <li><a href="#how">How It Works</a></li>  
   <li><a href="#apply">How To Apply</a></li>
 </ul>
@@ -28,15 +28,15 @@ Supporting modern creators and influencers with professional seed capital to gro
 
 We usually invest when companies are no more than a founder and idea & our core mission is to be deeply aligned with our founders through the ups & downs (and frequently arduous process) of building great companies.
 
-Probably most importantly - As long-time seed investors, the reality is that we are very used to backing people more than anything else… which is why the Influencer Fund - which directly backs people vs. companies - is a natural evolution for us. 
+Probably most importantly - As long-time seed investors, the reality is that we are very used to backing people more than anything else… which is why the Creator Fund - which directly backs people vs. companies - is a natural evolution for us. 
 
-Within Slow, the Influencer Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (Stride, Vemo, Pando Pooling), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
+Within Slow, the Creator Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (Stride, Vemo, Pando Pooling), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
 
 
 <div id="if"></div>
 
-The Slow Ventures Influencer Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the influencer / creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
+The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the influencer / creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
 
 <b> No requirement investment </b> — We do not tell people how to spend the money we invest - nor do we force creators and influencers to take any specific action.  This is how we have always done venture investing - trusting great people to know their business and how to invest our money, the same goes for how we support creators.
 
@@ -44,7 +44,7 @@ The Slow Ventures Influencer Fund is designed specifically to invest capital in 
 
 <b> Long-Term Focus </b> Because of how the influencer fund works, our goal is that our long-term interests are 100% aligned with your long-term interests.  Most models for financing talent are short-term and therefore pressure the talent to make as much money as possible quickly.  Some other models are focused on giving talent ‘up front’ money in return for forcing them to produce certain work or results for their ‘investors’.  That isn’t how our fund works, because we get paid when you get paid.
 
-<b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Influencer’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very very well. </b>, We always want to do well of course, but we are making early investments in people willing to take big risks on their careers - and we understand that sometimes it doesn't work out.  If that is the case and we lose our investment, that is OK.
+<b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Creator’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very very well. </b>, We always want to do well of course, but we are making early investments in people willing to take big risks on their careers - and we understand that sometimes it doesn't work out.  If that is the case and we lose our investment, that is OK.
 
 
 <div id="how"></div>
