@@ -21,7 +21,6 @@ Supporting modern creators with professional seed capital to grow their communit
 
 <hr>
   
-<p style="margin-bottom: 300px;"></p>
 <div id="sv"></div>
 
 
@@ -33,7 +32,7 @@ Probably most importantly - As long-time seed investors, the reality is that we 
 
 Within Slow, the Creator Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (Stride, Vemo, Pando Pooling), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
-<p style="margin-bottom: 300px;"></p>
+<p style="margin-bottom: 150px;"></p>
 <div id="if"></div>
 
 The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
@@ -46,7 +45,7 @@ The Slow Ventures Creator Fund is designed specifically to invest capital in ind
 
 <b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Creator’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very very well. </b>, We always want to do well of course, but we are making early investments in people willing to take big risks on their careers - and we understand that sometimes it doesn't work out.  If that is the case and we lose our investment, that is OK.
 
-<p style="margin-bottom: 300px;"></p>
+<p style="margin-bottom: 150px;"></p>
 
 <div id="how"></div>
 
@@ -59,7 +58,7 @@ The Slow Ventures Creator Fund is designed specifically to invest capital in ind
 <b>>Step 4:</b> The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.  As investors we get paid a percentage of annual creative revenue if the creator is succeeding and making significant money from their career.
 
 
-<p style="margin-bottom: 300px;"></p>
+<p style="margin-bottom: 150px;"></p>
 
 
 <div id="apply"></div>
