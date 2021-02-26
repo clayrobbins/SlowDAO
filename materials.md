@@ -1,5 +1,5 @@
 ---
-layout: logo
+layout: narrow
 title: "Slow Ventures : Creator Fund"
 highlight: "Professional Capital for Creators"
 ---
