@@ -8,7 +8,7 @@ highlight: "Professional Capital for Creators"
 
 Supporting modern creators with professional seed capital to grow their communities and fulfill their potential.
 
-*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how creator brands are built, financed and valued. [more on our thesis](http://influence.slow.co/thesis)*
+*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how creator brands are built, financed and valued. [more on our thesis](http://creator.slow.co/thesis)*
 
 <hr>
 
