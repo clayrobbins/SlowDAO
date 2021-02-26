@@ -19,7 +19,8 @@ Supporting modern creators with professional seed capital to grow their communit
   <li><a href="#apply">How To Apply</a></li>
 </ul>
 
-<hr>
+
+<p style="margin-bottom: 35px;"></p>
 <div id="sv"></div>
 
 
