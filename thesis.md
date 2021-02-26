@@ -1,5 +1,5 @@
 ---
-layout: logo
+layout: wide
 title: "Slow Ventures : Influenncer Fund"
 highlight: "The Big Picture Thesis on Influencers"
 ---
