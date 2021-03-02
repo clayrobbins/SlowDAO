@@ -22,9 +22,7 @@ Supporting modern creators with professional seed capital to grow their communit
 
 <hr>
 
-<p style="margin-bottom: 10px;"></p>
-<div id="sv"></div>
-<p style="margin-bottom: 25px;"></p>
+<p id="sv" style="margin-top: 10px; margin-bottom: 25px;">1</p>
 
 [Slow Ventures](http://www.slow.co) is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including <b>Venmo, Robinhood, Postmates, Allbirds, Casper, Slack, Airtable, Ro</b>, and [many more](http://main.slow.co/about/).  
 
@@ -34,9 +32,7 @@ Probably most importantly - As long-time seed investors, the reality is that we 
 
 Within Slow, the Creator Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (Stride, Vemo, Pando Pooling), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
-<p style="margin-bottom: 100px;"></p>
-<div id="if"></div>
-<p style="margin-bottom: 50px;"></p>
+<p id="if" style="margin-top: 100px; margin-bottom: 50px;">2</p>
 
 The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
 
@@ -48,9 +44,7 @@ The Slow Ventures Creator Fund is designed specifically to invest capital in ind
 
 <b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Creator’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very very well. </b>, We always want to do well of course, but we are making early investments in people willing to take big risks on their careers - and we understand that sometimes it doesn't work out.  If that is the case and we lose our investment, that is OK.
 
-<p style="margin-bottom: 100px;"></p>
-<div id="how"></div>
-<p style="margin-bottom: 50px;"></p>
+<p id="how" style="margin-top: 100px; margin-bottom: 50px;">3</p>
 
 <b>>Step 1:</b> We work with a creator to understand their capital needs & set a fair valuation on their creative career.  This is a collaborative process and works pretty much exactly the same way as when we invest in seed stage companies.
 
@@ -61,18 +55,15 @@ The Slow Ventures Creator Fund is designed specifically to invest capital in ind
 <b>>Step 4:</b> The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.  As investors we get paid a percentage of annual creative revenue if the creator is succeeding and making significant money from their career.
 
 
-<p style="margin-bottom: 100px;"></p>
-<div id="apply"></div>
-<p style="margin-bottom: 50px;"></p>
+<p id="apply" style="margin-top: 100px; margin-bottom: 50px;">4</p>
 
 To learn more feel free to reach out directly to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect.  We are happy to connect and discuss the fund even casually even if you aren't sure if you want to apply.  If you are interested in applying to the slow creator fund a great way to get started is to answer a few questions below (which helps us expedite things).  
 
 <a class="typeform-share button" href="https://form.typeform.com/to/CxMqlcJf?typeform-medium=embed-snippet" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#000000;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:19px;line-height:47.5px;text-align:center;margin:0;height:47.5px;padding:0px 31px;border-radius:0px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-size="100" target="_blank">Get Started </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 
 
-<p style="margin-bottom: 100px;"></p>
-<div id="co"></div>
-<p style="margin-bottom: 50px;"></p>
+
+<p id="co" style="margin-top: 100px; margin-bottom: 50px;" >5</p>
 
 Our core thesis at Slow ventures is centered on being collaborative capital.  That is why, unlike most funds, we generally don’t take board seats and look to build helpful syndicates for the companies we invest in from the earliest days vs. trying to just own as much as possible at all costs.
 
