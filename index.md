@@ -67,9 +67,15 @@ To learn more feel free to reach out directly to <a href="mailto:sam@slow.co">sa
 
 Our core thesis at Slow ventures is centered on being collaborative capital.  That is why, unlike most funds, we generally don’t take board seats and look to build helpful syndicates for the companies we invest in from the earliest days vs. trying to just own as much as possible at all costs.
 
-This mentality of course extends to the creator fund.  We actively look to work with great co-investors that can help the creators we back succeed.  If you are a qualified investor and interested in collaborating on our investments and investing money alongside our fund, please reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> to discuss how to get involved and share creator-deals.  
+This mentality of course extends to the creator fund.  If you are a qualified investor and interested in helping to finance and support creators, we would love to have you join our community & collaborate.  Things we provide to consider: 
 
-We are setup to include helpful co-investors in the deals we do, as well as manage the legal and administrative side of deals you want to lead (assuming there is an opportunity for us to co-invest of course…)
+<ul>
+  <li><b>Community:</b>  Join our group of investors in the space where we share ideas & opportunities</li>
+  <li>Co-Invest: co-invest in creators that slow & the community is backing</li>
+  <li>Back-Office: if you have creator investments you want to make we can support with template legal docs, </li>
+</ul>
+
+If you are interested in learning more and joining this community please reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> if you want to learn more or join the group.
 
 <p style="margin-bottom: 1000px;"></p>
 
