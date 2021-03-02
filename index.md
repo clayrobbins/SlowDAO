@@ -16,7 +16,8 @@ Supporting modern creators with professional seed capital to grow their communit
   <li><a href="#sv">About Slow Ventures</a></li>
   <li><a href="#if">About The Creator Fund</a></li>
   <li><a href="#how">How It Works</a></li>  
-  <li><a href="#apply">How To Apply</a></li>
+  <li><b><a href="#apply">How To Apply as a Creator</a></b></li>
+  <li><a href="#co">Information for Co-Investors</a></li>
 </ul>
 
 <hr>
@@ -64,12 +65,22 @@ The Slow Ventures Creator Fund is designed specifically to invest capital in ind
 <div id="apply"></div>
 <p style="margin-bottom: 50px;"></p>
 
-To learn more feel free to reach out directly to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect.  If you are interested in applying to the slow creator fund a great way to get started is to answer a few questions below (which helps us expedite things).  
+To learn more feel free to reach out directly to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect.  We are happy to connect and discuss the fund even casually even if you aren't sure if you want to apply.  If you are interested in applying to the slow creator fund a great way to get started is to answer a few questions below (which helps us expedite things).  
 
 <a class="typeform-share button" href="https://form.typeform.com/to/CxMqlcJf?typeform-medium=embed-snippet" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#000000;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:19px;line-height:47.5px;text-align:center;margin:0;height:47.5px;padding:0px 31px;border-radius:0px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-size="100" target="_blank">Get Started </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
+
+<p style="margin-bottom: 25px;"></p>
+<div id="co"></div>
+<p style="margin-bottom: 50px;"></p>
+
+Our core thesis at Slow ventures is centered on being collaborative capital.  That is why, unlike most funds, we generally don’t take board seats and look to build helpful syndicates for the companies we invest in from the earliest days vs. trying to just own as much as possible at all costs.
+
+This mentality of course extends to the creator fund.  We actively look to work with great co-investors that can help the creators we back succeed.  If you are a qualified investor and interested in collaborating on our investments and investing money alongside our fund, please reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> to discuss how to get involved and share creator-deals.  
+
+We are setup to include helpful co-investors in the deals we do, as well as manage the legal and administrative side of deals you want to lead (assuming there is an opportunity for us to co-invest of course…)
+
 <p style="margin-bottom: 1000px;"></p>
-
-
 
 
 
