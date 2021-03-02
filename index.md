@@ -16,7 +16,7 @@ Supporting modern creators with professional seed capital to grow their communit
   <li><a href="#sv">About Slow Ventures</a></li>
   <li><a href="#if">About The Creator Fund</a></li>
   <li><a href="#how">How It Works</a></li>  
-  <li><b><a href="#apply">>How To Apply as a Creator<</a></b></li>
+  <li><b><a href="#apply">> How To Apply as a Creator</a></b></li>
   <li><a href="#co">Information for Co-Investors</a></li>
 </ul>
 
