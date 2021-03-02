@@ -71,7 +71,7 @@ This mentality of course extends to the creator fund.  If you are a qualified in
 
 <p style="margin-left:20px"><b>🏴 Community:</b> Join our group of investors in the space where we share ideas & opportunities</p>
 
-<p style="margin-left:20px"><b>🏴 Co-Invest:</b> Co-invest in the deals we do</p>
+<p style="margin-left:20px"><b>🏴 Co-Invest:</b> Co-invest in the deals we do.  We will let you know what we are doing and are happy to carve out space if you want to co-invest.</p>
 
 <p style="margin-left:20px"><b>🏴 Back Office:</b> When you have creator investments you want to make we can support with template legal docs, deal closing process support, etc.</p>
 
