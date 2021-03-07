@@ -1,9 +1,9 @@
 html {
-    background-color: black;
+    background-color: #1E2022;
 }
 body {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-  background-color: black;
+  background-color: #1E2022;
 }
 p,
 h1,
@@ -33,18 +33,18 @@ h3 {
 }
 h4 {
   font-size: 16px;
-  color: white;
+  color: #C0C0C0;
   text-transform: capitalize;
 
 }
 h5 {
-  color: white;
+  color: #C0C0C0;
 }
 h6 {
-  color: white;
+  color: #C0C0C0;
 }
 p {
-  color: white;
+  color: #C0C0C0;
 }
 article p {
   font-size: 1rem;
@@ -76,15 +76,15 @@ div.footer {
 }
 div.footer p {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-  color: white;
+  color: #C0C0C0;
 }
 div.footer ul {
   list-style: none;
   margin-left: -40px;
-  color: white;
+  color: #C0C0C0;
 }
 div.footer a {
-  color: white;
+  color: #C0C0C0;
 }
 blockquote,
 pre,
