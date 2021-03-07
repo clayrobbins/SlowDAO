@@ -4,7 +4,7 @@ title: "Creator Capital Association"
 highlight: "Professional Capital for Creators"
 ---
 
-<h4 style="font-size: 22px">THE SLOW VENTURES CREATOR FUND</h4> 
+<h4 style="font-size: 22px">THE CREATOR CAPITAL ASSOCIATION</h4> 
 
 Supporting modern creators with professional seed capital to grow their communities and fulfill their potential.
 
