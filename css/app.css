@@ -114,6 +114,9 @@ img.w-25 {
     margin-left: -15px;
     margin-bottom: 25px;
 }
+img.w-50 {
+    margin-left: -20px;
+}
 
 
 /****************** exceptions *****************/
