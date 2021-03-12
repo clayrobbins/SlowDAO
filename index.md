@@ -31,7 +31,7 @@ Supporting modern creators with professional seed capital to grow their communit
 
 4) If you believe in a future of investing in people, the best way to start is with a high quality consortium of investors backing creators. 
 
-<p id="fu" style="margin-top: 10px; margin-bottom: 25px;">◦</p>
+<p id="fu" style="margin-top: 100px; margin-bottom: 50px;">◦</p>
 
 The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).
 
@@ -41,7 +41,7 @@ Like our seed investments we look to lead with partners, bringing together great
 
 Within Slow, the Creator Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (Stride, Vemo, Pando Pooling), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
-<p id="kf" style="margin-top: 10px; margin-bottom: 25px;">◦</p>
+<p id="kf" style="margin-top: 100px; margin-bottom: 50px;">◦</p>
 
 There are a few important things to understand about our beliefs, which inform how we invest in creators.  We believe it is critical to:
 
