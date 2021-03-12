@@ -49,7 +49,7 @@ There are a few important things to understand about our beliefs, which inform h
 
 2 - <b>Minimize Risk for Talent</b> we never want to be in a position where our investment creates a hardship for creatives.  That means not taking any return on the first $100K of annual income, and making sure that the equity a creator sells is never greater than 10%.  
 
-3 - <b>Guarantee the Creator is 100% In Control Our investments are passive.</b>  We never have any control over what a creator does, or when / how they work.  We have no ‘vote’.  The creator always has a right-of-first refusal on transactions.  If the creator decides to walk away from their creative career and stops generating creative income, that is their decision.
+3 - <b>Guarantee the Creator is 100% In Control</b> Our investments are passive. We never have any control over what a creator does, or when / how they work.  We have no ‘vote’.  The creator always has a right-of-first refusal on transactions. If the creator decides to walk away from their creative career and stops generating creative income, that is their decision.
 
 4 - <b>Keep It Simple</b> The last thing we want to do is create overhead or burden for creators.  Our deals are simple, and we take on the burden of managing ongoing details around accounting, etc.  
 
