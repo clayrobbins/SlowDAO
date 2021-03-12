@@ -33,7 +33,7 @@ Supporting modern creators with professional seed capital to grow their communit
 
 <p id="fu" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
 
-The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).
+The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more long-term value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).
 
 At [Slow Ventures](http://www.slow.co) we see directly investing in creators as a natural extension of our seed investments over the last 10+ years.  Over the last decade we have invested more than $500M in over 300 seed stage companies (including Robinhood, Postmates, Ro, Slack, Venmo, Hipcamp, Allbrids, and [many more](http://main.slow.co/about/).  We always invest in the earliest days, when new companies are no more than the people, and the idea.
 
