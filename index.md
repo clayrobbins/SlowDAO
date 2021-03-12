@@ -23,13 +23,13 @@ Supporting modern creators with professional seed capital to grow their communit
 
 <p id="ts" style="margin-top: 10px; margin-bottom: 25px;">◦</p>
 
-1. The most valuable brands of the future will be people, not companies.  There are several reasons that power is shifting from institutions to people, and value will follow (more)
+1) The most valuable brands of the future will be people, not companies.  There are several reasons that power is shifting from institutions to people, and value will follow (more)
 
-2. Creators today are limited because the have to grow off of ‘cash flow’ and don’t have access to institutional capital to invest in their personal brands.
+2) Creators today are limited because the have to grow off of ‘cash flow’ and don’t have access to institutional capital to invest in their personal brands.
 
-3. Providing creators with ‘seed capital’ in return for small non-voting minority share of future creative earnings is a win-win for creators and for investors. 
+3) Providing creators with ‘seed capital’ in return for small non-voting minority share of future creative earnings is a win-win for creators and for investors. 
 
-4. If you believe in a future of investing in people, the best way to start is with a high quality consortium of investors backing creators. 
+4) If you believe in a future of investing in people, the best way to start is with a high quality consortium of investors backing creators. 
 
 <p id="fu" style="margin-top: 10px; margin-bottom: 25px;">◦</p>
 
