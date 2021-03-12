@@ -1,14 +1,14 @@
 ---
 layout: narrow
-title: "Creator Capital Association"
+title: "Creator Fund"
 highlight: "Professional Capital for Creators"
 ---
 
-<h4 style="font-size: 22px">THE CREATOR CAPITAL ASSOCIATION</h4> 
+<h4 style="font-size: 22px">THE CREATOR FUND</h4> 
 
 Supporting modern creators with professional seed capital to grow their communities and fulfill their potential.
 
-*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how creator brands are built, financed and valued. [more on our thesis](http://creator.slow.co/thesis)*
+*The most valuable brands of the future are going to be people rather than companies.  However, in order to get to a future a few key things need to change about how creator brands are built, financed and valued. [more on our thesis](https://creatorfund.co/thesis)*
 
 <hr>
 
