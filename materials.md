@@ -11,8 +11,9 @@ Supporting professional creators with professional seed capital to grow their co
 <hr>
 
 <ul>
-  <li><a href="https://docsend.com/view/fv33ypuy2vr8pfc6">About The Influencer Fund</a></li>
-  <li><a href="https://docsend.com/view/z6xu4te7kbuj82ry">Short Intro for Creators</a></li>  
+  <li><a href="https://docsend.com/view/fv33ypuy2vr8pfc6">General Overview</a></li>
+  <li><a href="https://docsend.com/view/z6xu4te7kbuj82ry">Intro for Creators</a></li>  
+  <li><a href="https://docsend.com/view/xwedjswfsnmgftir">Intro for Partners</a></li>  
   <li><a href="https://docsend.com/view/dcdhv2645ga8uysv">Template Term Sheet</a></li>
 </ul>
 
