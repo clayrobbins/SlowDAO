@@ -1,6 +1,6 @@
 ---
 layout: narrow
-title: "Slow Ventures : Creator Fund"
+title: "Creator Fund"
 highlight: "Professional Capital for Creators"
 ---
 
