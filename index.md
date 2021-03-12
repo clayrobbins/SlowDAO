@@ -58,7 +58,7 @@ There are a few important things to understand about our beliefs, which inform h
 
 <p id="how" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
 
-High level there are a few steps we go through in getting to know a creator and making an investment
+High level there are a few steps we go through to get to know a creator and make an investment:
 
 <b>> Initiate:</b> We interact with a creator to understand their current community and income streams.  We discuss how they could use capital to accelerate their careers and see if there is a fit.  If there is, we generate a term-sheet outlining a proposed deal with a creator.
 
