@@ -56,7 +56,7 @@ There are a few important things to understand about our beliefs, which inform h
 5 - <b>Be Deeply Collaborative</b> When we invest the idea is to include a syndicate of helpful co-investors for the creator from our community of partners (if the creator wants).
 
 
-<p id="how" style="margin-top: 100px; margin-bottom: 50px;">3</p>
+<p id="how" style="margin-top: 100px; margin-bottom: 50px;">◦</p>
 
 <b>> Initiate:</b> We interact with a creator to understand their current footprint and income streams.  We discuss how they could use capital to accelerate their careers and see if there is a fit.  If there is, we generate a term-sheet outlining a proposed deal with a creator.
 
@@ -68,7 +68,7 @@ There are a few important things to understand about our beliefs, which inform h
 
 
 
-<p id="apply" style="margin-top: 100px; margin-bottom: 50px;">4</p>
+<p id="apply" style="margin-top: 100px; margin-bottom: 50px;">◦</p>
 
 To learn more feel free to reach out directly to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect.  We are happy to connect and discuss the fund even casually even if you aren't sure if you want to apply.  If you are interested in applying to the slow creator fund a great way to get started is to answer a few questions below (which helps us expedite things).  
 
@@ -76,7 +76,7 @@ To learn more feel free to reach out directly to <a href="mailto:sam@slow.co">sa
 
 
 
-<p id="co" style="margin-top: 100px; margin-bottom: 50px;" >5</p>
+<p id="co" style="margin-top: 100px; margin-bottom: 50px;" >◦</p>
 
 Our core thesis at Slow ventures is centered on being collaborative capital.  That is why, unlike most funds, we generally don’t take board seats and look to build helpful syndicates for the companies we invest in from the earliest days vs. trying to just own as much as possible at all costs.  This mentality extends to the creator fund.  If you are a qualified investor and interested in helping to finance and support creators, we would love to have you join our community & collaborate.  Please reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> if you want to learn more or join the group.
 
