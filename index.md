@@ -11,53 +11,66 @@ Supporting modern creators with professional seed capital to grow their communit
 <hr>
 
 <ul>
-  <li><a href="#sv">1 About Slow Ventures</a></li>
-  <li><a href="#if">2 About The Creator Fund</a></li>
-  <li><a href="#how">3 How It Works</a></li>  
-  <li><b><a href="#apply">4 How To Apply as a Creator</a></b></li>
-  <li><a href="#co">5 Information for Co-Investors</a></li>
+  <li><a href="#ts">1 Our Creator Thesis</a></li>
+  <li><a href="#fu">2 The Fund</a></li>
+  <li><a href="#kf">3 Key Features</a></li>  
+  <li><a href="#how">4 How It Works</a></li>  
+  <li><b><a href="#apply">5 How To Apply as a Creator</a></b></li>
+  <li><a href="#co">6 Become a Partner</a></li>
 </ul>
 
 <hr>
 
-<p id="sv" style="margin-top: 10px; margin-bottom: 25px;">1</p>
+<p id="ts" style="margin-top: 10px; margin-bottom: 25px;">◦</p>
 
-[Slow Ventures](http://www.slow.co) is a $500M early stage investment fund based in San Fransisco and Boston.  Over the last decade we have backed iconic companies from the earliest days including <b>Venmo, Robinhood, Postmates, Allbirds, Casper, Slack, Airtable, Ro</b>, and [many more](http://main.slow.co/about/).  
+1. The most valuable brands of the future will be people, not companies.  There are several reasons that power is shifting from institutions to people, and value will follow (more)
 
-We usually invest when companies are no more than a founder and idea & our core mission is to be deeply aligned with our founders through the ups & downs (and frequently arduous process) of building great companies.
+2. Creators today are limited because the have to grow off of ‘cash flow’ and don’t have access to institutional capital to invest in their personal brands.
 
-Probably most importantly - As long-time seed investors, the reality is that we are very used to backing people more than anything else… which is why the Creator Fund - which directly backs people vs. companies - is a natural evolution for us. 
+3. Providing creators with ‘seed capital’ in return for small non-voting minority share of future creative earnings is a win-win for creators and for investors. 
+
+4. If you believe in a future of investing in people, the best way to start is with a high quality consortium of investors backing creators. 
+
+<p id="fu" style="margin-top: 10px; margin-bottom: 25px;">◦</p>
+
+The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).
+
+At [Slow Ventures](http://www.slow.co) we see directly investing in creators as a natural extension of our seed investments over the last 10+ years.  Over the last decade we have invested more than $500M in over 300 seed stage companies (including Robinhood, Postmates, Ro, Slack, Venmo, Hipcamp, Allbrids, and [many more](http://main.slow.co/about/).  We always invest in the earliest days, when new companies are no more than the people, and the idea.
+
+Like our seed investments we look to lead with partners, bringing together great angles to help make companies (and now creators) successful.  When we back creators our goal is to help them put together the best possible syndicate of investors that can help them achieve their potential.  That means working with a community of supportive investors interested in seeding the next generation of talent.
 
 Within Slow, the Creator Fund is managed by [Sam Lessin](https://www.twitter.com/lessin).  Sam was VP of Product at Facebook from 2010-2014.  He has founded two companies - drop.io (sold to Facebook), and [Fin Analytics](https://www.fin.com).  He has been working in and around new ways to help individuals get access to financing beyond debt for a long time, making several investments in the ISA space (Stride, Vemo, Pando Pooling), and Hosting the [Life Capital Conference](http://www.lifecapital.com/)) on alternative financing models for people, and even some [ancient IP](https://patents.google.com/patent/US20020133445A1/en?oq=samuel+lessin+marketplace) on the topic. 
 
-<p id="if" style="margin-top: 100px; margin-bottom: 50px;">2</p>
+<p id="kf" style="margin-top: 10px; margin-bottom: 25px;">◦</p>
 
-The Slow Ventures Creator Fund is designed specifically to invest capital in individuals to help them build their brands & create more value.  We can invest anywhere from **$100K to $5M** in each person in return for anywhere from **1-5%** of the creator’s future earnings over their careers.  We also can lead syndicates and bring on other co-investors (just as we do with traditional companies).  There are a few important things to understand about how our fund works: 
+There are a few important things to understand about our beliefs, which inform how we invest in creators.  We believe it is critical to:
 
-<b> No requirement investment </b> — We do not tell people how to spend the money we invest - nor do we force creators to take any specific action.  This is how we have always done venture investing - trusting great people to know their business and how to invest our money, the same goes for how we support creators.
+1 - <b>Create Holistic Long-Term Alignment</b>  when we invest in creators we are investing holistically in their long-term creative careers.  That means that we look to seed them with capital in return for a small percentage (<10%) of their creative income & the IP they generate over 30 years.  This long-term focus allows us to fully value their creative potential and therefore minimize the percentage of ‘equity’ we need to take to balance the investment we make
 
-<b> Teamwork Focus </b> — We always welcome collaboration with other investors when making our investment.  In venture investing, we have always found the collaborative approach best. ‘It takes a village’…. In our ideal model, we invest in a creator alongside other strategic investors (for instance, if you are a fitness creator, we help bring on other big-name successful fitness creators to invest in you and help you grow).  
+2 - <b>Minimize Risk for Talent</b> we never want to be in a position where our investment creates a hardship for creatives.  That means not taking any return on the first $100K of annual income, and making sure that the equity a creator sells is never greater than 10%.  
 
-<b> Long-Term Focus </b> Because of how the creator fund works, our goal is that our long-term interests are 100% aligned with your long-term interests.  Most models for financing talent are short-term and therefore pressure the talent to make as much money as possible quickly.  Some other models are focused on giving talent ‘up front’ money in return for forcing them to produce certain work or results for their ‘investors’.  That isn’t how our fund works, because we get paid when you get paid.
+3 - <b>Guarantee the Creator is 100% In Control Our investments are passive.</b>  We never have any control over what a creator does, or when / how they work.  We have no ‘vote’.  The creator always has a right-of-first refusal on transactions.  If the creator decides to walk away from their creative career and stops generating creative income, that is their decision.
 
-<b> Minimize Risk for Talent </b> What if you take a few years off?  What if something goes wrong and you don’t end up making money?  The Slow Ventures Creator’s fund only gets a return on your earning above and beyond a threshold.   <b> We only want to do well if you are doing very very well. </b>, We always want to do well of course, but we are making early investments in people willing to take big risks on their careers - and we understand that sometimes it doesn't work out.  If that is the case and we lose our investment, that is OK.
+4 - <b>Keep It Simple</b> The last thing we want to do is create overhead or burden for creators.  Our deals are simple, and we take on the burden of managing ongoing details around accounting, etc.  
+
+5 - <b>Be Deeply Collaborative</b> When we invest the idea is to include a syndicate of helpful co-investors for the creator from our community of partners (if the creator wants).
+
 
 <p id="how" style="margin-top: 100px; margin-bottom: 50px;">3</p>
 
-<b>>Step 1:</b> We work with a creator to understand their capital needs & set a fair valuation on their creative career.  This is a collaborative process and works pretty much exactly the same way as when we invest in seed stage companies.
+<b>> Initiate:</b> We interact with a creator to understand their current footprint and income streams.  We discuss how they could use capital to accelerate their careers and see if there is a fit.  If there is, we generate a term-sheet outlining a proposed deal with a creator.
 
-<b>>Step 2:</b> We help the creator establish a business that represents their creative career & assign that company the correct income streams, IP, and equity (much like how people setup trusts)
+<b>> Setup:</b> We assist the creator in the technical setup to prepare for an investment.  This means (1) incorporating a business to represent the creator’s career and (2) a simple agreement to assign income related to their creative career to the company.  
 
-<b>>Step 3:</b> We invest in the company for a small minority share.  If the creator wants we can ‘lead’ the investment and include other value-added investors (just like we do for seed-stage companies)
+<b>> Fund:</b> Slow funds the creator’s company (and - if wanted by the creator - coordinates investments from others that can be of assistance).  The money can be used for anything that the creator wants.
 
-<b>>Step 4:</b> The creator retains complete freedom and control in their careers.  There is no deliverable, etc.  Just as we help early-stage companies we look to do the same for early-stage creatives.  As investors we get paid a percentage of annual creative revenue if the creator is succeeding and making significant money from their career.
+<b>> Support:</b> After funding, Slow is aligned with the creator over the long-term.  Just like with the companies we fund, that means assisting where we can help with introductions, advice, negotiation, etc. 
+
 
 
 <p id="apply" style="margin-top: 100px; margin-bottom: 50px;">4</p>
 
-To learn more feel free to reach out directly to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect.  We are happy to connect and discuss the fund even casually even if you aren't sure if you want to apply.   
-
-But, if you are interested in applying to the slow creator fund a great way to get started is to answer a few questions below (which helps us expedite things).  
+To learn more feel free to reach out directly to <a href="mailto:sam@slow.co">sam@slow.co</a> and we will find a time to connect.  We are happy to connect and discuss the fund even casually even if you aren't sure if you want to apply.  If you are interested in applying to the slow creator fund a great way to get started is to answer a few questions below (which helps us expedite things).  
 
 <a class="typeform-share button" href="https://form.typeform.com/to/CxMqlcJf?typeform-medium=embed-snippet" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#000000;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:19px;line-height:47.5px;text-align:center;margin:0;height:47.5px;padding:0px 31px;border-radius:0px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-size="100" target="_blank">Get Started </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 
@@ -65,17 +78,7 @@ But, if you are interested in applying to the slow creator fund a great way to g
 
 <p id="co" style="margin-top: 100px; margin-bottom: 50px;" >5</p>
 
-Our core thesis at Slow ventures is centered on being collaborative capital.  That is why, unlike most funds, we generally don’t take board seats and look to build helpful syndicates for the companies we invest in from the earliest days vs. trying to just own as much as possible at all costs.
-
-This mentality of course extends to the creator fund.  If you are a qualified investor and interested in helping to finance and support creators, we would love to have you join our community & collaborate.  Things we provide to consider: 
-
-<p style="margin-left:20px"><b>a) Community:</b> Join our group of investors in the space where we share ideas & opportunities</p>
-
-<p style="margin-left:20px"><b>b) Co-Invest:</b> Co-invest in the deals we do.  We will let you know what we are doing and are happy to carve out space if you want to co-invest.</p>
-
-<p style="margin-left:20px"><b>c) Back Office:</b> When you have creator investments you want to make we can support with template legal docs, deal closing process support, etc.</p>
-
-If you are interested in learning more and joining this community please reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> if you want to learn more or join the group.
+Our core thesis at Slow ventures is centered on being collaborative capital.  That is why, unlike most funds, we generally don’t take board seats and look to build helpful syndicates for the companies we invest in from the earliest days vs. trying to just own as much as possible at all costs.  This mentality extends to the creator fund.  If you are a qualified investor and interested in helping to finance and support creators, we would love to have you join our community & collaborate.  Please reach out to <a href="mailto:sam@slow.co">sam@slow.co</a> if you want to learn more or join the group.
 
 <p style="margin-bottom: 1000px;"></p>
 
