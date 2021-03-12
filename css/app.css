@@ -120,7 +120,9 @@ img.w-50 {
 img.w-75 {
     margin-left: -20px;
 }
-
+hr {
+  border-top: 1px solid white;
+}
 
 /****************** exceptions *****************/
 /* stylelint-disable */
