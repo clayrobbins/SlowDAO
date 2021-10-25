@@ -6,7 +6,7 @@ highlight: "Bringing Land On-Chain"
 
 Bringing land on-chain and upgrading the future of the corporation.
 
-*Corporations are in need of an upgrade.[more on our thesis](https://twitter.com/lessin/status/1443608637562261506?s=20)*
+*Corporations are in need of an upgrade. [more on our thesis](https://twitter.com/lessin/status/1443608637562261506?s=20)*
 
 <hr>
 
@@ -14,7 +14,7 @@ Bringing land on-chain and upgrading the future of the corporation.
   <li><a href="#ts">1 Why DAOs?</a></li>
   <li><a href="#fu">2 The Fund</a></li>
   <li><a href="#od">3 Operating Detials</a></li>   
-  <li><b><a href="#apply">5 How to participate</a></b></li>
+  <li><a href="#apply">5 How to participate</a></b></li>
 </ul>
 
 <hr>
@@ -62,7 +62,5 @@ Membership in this DAO is open only to US Qualified Purchasers, and no more than
 If you're interesting in participating in Slow DAO 1, follow the link below. To learn more feel free to reach out directly to <a href="mailto:clay@slow.co">clay@slow.co</a> and we will find a time to connect.
 
 <button data-tf-popup="ZNKSETTO" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#0445AF;color:#FFFFFF;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Launch me</button><script src="//embed.typeform.com/next/embed.js"></script>
-
-<a class="typeform-share button" href="https://form.typeform.com/to/CxMqlcJf?typeform-medium=embed-snippet" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#000000;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:19px;line-height:47.5px;text-align:center;margin:0;height:47.5px;padding:0px 31px;border-radius:0px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-size="100" target="_blank">Get Started </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 
 <p style="margin-bottom: 1000px;"></p>
