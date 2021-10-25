@@ -14,7 +14,7 @@ Bringing land on-chain and upgrading the future of the corporation.
   <li><a href="#ts">1 Why DAOs?</a></li>
   <li><a href="#fu">2 The Fund</a></li>
   <li><a href="#od">3 Operating Detials</a></li>   
-  <li><a href="#apply">5 How to participate</a></b></li>
+  <li><a href="#apply">5 How to participate</a><</li>
 </ul>
 
 <hr>
