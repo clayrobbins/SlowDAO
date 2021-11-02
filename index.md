@@ -13,7 +13,7 @@ Bringing land on-chain and upgrading the future of the corporation.
 <ul>
   <li><a href="#ts">1 Why DAOs?</a></li>
   <li><a href="#fu">2 The Fund</a></li>
-  <li><a href="#od">3 Operating Detials</a></li>   
+  <li><a href="#od">3 Operating Details</a></li>   
   <li><a href="#apply">5 How to participate </a><</li>
 </ul>
 
@@ -57,7 +57,7 @@ The DAO will be managed following several core operating principles:
 
 <p id="how" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
 
-US based Qualified purchasers interested in Slow DAO 1 can follow the link below to contribute. 
+US based Qualified purchasers interested in Slow DAO 1 can follow the link below to contribute.
 
 To learn more feel free to reach out directly to <a href="mailto:clay@slow.co">clay@slow.co</a> and we will find a time to connect.
 
