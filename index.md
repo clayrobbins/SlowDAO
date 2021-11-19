@@ -21,7 +21,7 @@ Bringing land on-chain, upgrading the corporation, and crossing the chasm betwee
 
 <p id="ts" style="margin-top: 10px; margin-bottom: 25px;">◦</p>
 
-1) The corporation is over 100 years old and are not fit to serve the way individuals and tech organize and operate.
+1) The corporation is over 100 years old and are not fit to serve the way individuals + tech organize and operate.
 
 2) Digitization has upgraded information through the internet, money through crypto, and now corporations through DAOs.
 
@@ -32,7 +32,7 @@ Bringing land on-chain, upgrading the corporation, and crossing the chasm betwee
 
 <p id="fu" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
 
-Slow DAO 1 will identify parcels of land within Teton County that show promise of prospective future value based on a myriad of factors including location, commercial or residential viability, and accessibility to infrastructure. We’ll commit an average of $500,000 to purchase parcels through the DAO, which is a registered Wyoming LLC.
+Slow DAO 1 will identify parcels of land within Teton County that show promise of prospective future value based on a myriad of factors including location, commercial or residential viability, and accessibility to infrastructure. We’ll commit an average of $500,000 to purchase parcels through the DAO, which is a registered LLC in Deleware.
 
 The DAO will be managed following several core operating principles:
 
@@ -51,7 +51,7 @@ The DAO will be managed following several core operating principles:
 
 <b>Slow’s interest = DAO success.</b> By deferring our compensation via “sweat equity” in the DAO, we’re aligning our success directly with the DAO.
 
-<b>If you don’t like us? Give us the boot.</b> We’ve baked in a governance feature that enables replacement of the DAO manager.
+<b>Don’t like us? Give us the boot.</b> We’ve baked in a governance feature that enables replacement of the DAO manager.
 
 
 
