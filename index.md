@@ -32,7 +32,7 @@ Bringing land on-chain, upgrading the corporation, and crossing the chasm betwee
 
 <p id="fu" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
 
-Slow DAO 1 will identify parcels of land within Teton County that show promise of prospective future value based on a myriad of factors including location, commercial or residential viability, and accessibility to infrastructure. We’ll commit an average of $500,000 to purchase parcels through the DAO, which is a registered LLC in Deleware.
+Slow DAO 1 will identify parcels of land within Teton County that show promise of prospective future value based on a myriad of factors including location, commercial or residential viability, and accessibility to infrastructure. We’ll commit an average of $500,000 to purchase parcels through the DAO, which is a registered LLC in Delaware.
 
 The DAO will be managed following several core operating principles:
 
