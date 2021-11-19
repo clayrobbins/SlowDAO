@@ -14,7 +14,7 @@ Bringing land on-chain, upgrading the corporation, and crossing the chasm betwee
   <li><a href="#ts">1 Why DAOs?</a></li>
   <li><a href="#fu">2 The Fund</a></li>
   <li><a href="#od">3 Operating Details</a></li>   
-  <li><a href="#apply">5 How To Apply </a></li>
+  <li><a href="#apply">4 How To Apply </a></li>
 </ul>
 
 <hr>
@@ -45,7 +45,7 @@ The DAO will be managed following several core operating principles:
 4 - <b>Starting Small</b> Membership in Slow DAO 1 is open only to US Qualified Purchasers, and no more than 500 individuals/entities will ever be members (there will be a maximum of 500 units available to investors and a cap on individual ownership of 15%).
 
 
-<p id="kf" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
+<p id="od" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
 
 <b>Operations and governance will be managed by the DAO.</b> Though off-chain business operations will be conducted by the DAO manager (Slow), approval of both purchase and liquidation of acquired parcels will be managed DAO members through the DAO's goverance portal.
 
@@ -55,7 +55,7 @@ The DAO will be managed following several core operating principles:
 
 
 
-<p id="how" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
+<p id="apply" style="margin-top: 50px; margin-bottom: 25px;">◦</p>
 
 US based Qualified purchasers interested in Slow DAO 1 can follow the link below to apply & contribute.
 
